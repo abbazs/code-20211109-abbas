@@ -1,0 +1,12 @@
+# Ignore python cached files
+__pycache__/
+
+# Ignore poetry lock file
+poetry.lock
+
+# Ignore vscode settings
+.vscode/
+
+# workbench folder
+
+work/
