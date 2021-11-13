@@ -10,7 +10,7 @@ app = FastAPI()
 
 @app.get("/")
 async def index():
-    return {"bmi": "calculator"}
+    return {"bmi": "calculator", "by": "code-20211109-abbas"}
 
 
 @app.post("/bmi")
