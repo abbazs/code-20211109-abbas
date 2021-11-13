@@ -10,3 +10,7 @@ poetry.lock
 # workbench folder
 
 work/
+
+# distribution folder
+
+dist/
